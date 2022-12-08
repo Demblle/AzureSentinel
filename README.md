@@ -1,7 +1,7 @@
 <h1>Azure Sentinel SIEM</h1>
 
 <h2>Description</h2>
-I started this project because I wanted to get into cloud engineering and I felt like this was a good way of introducing myself to Microsoft Azure and its core functions such as creating a resource group, a Virtual Machine and connecting to it with RDP, making firewall rules in NSG(Netowrk Security Group) so the VMs ports are open to the public, inside the VM I used a powershell script to extract data from Event Viewer and forward it to a third-party API to extract geolocation data, configured Log Analytic Workspace in Azure to ingest custom logs containing geographic information such as latitude, longitude, state/province and country.<br>
+I started this project because I wanted to get into cloud and I felt like this was a good way of introducing myself to Microsoft Azure and its core functions such as creating a resource group, a Virtual Machine and connecting to it with RDP, making firewall rules in NSG(Netowrk Security Group) so the VMs ports are open to the public, inside the VM I used a powershell script to extract data from Event Viewer and forward it to a third-party API to extract geolocation data, configured Log Analytic Workspace in Azure to ingest custom logs containing geographic information such as latitude, longitude, state/province and country.<br>
 I also made custom fields in Log Analytic Workspace with the intent of mapping geographic data in Azure Sentinel to display RDP brute force attacks on a world map according to the attacker's physical location.
 <br>
 
