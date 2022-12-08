@@ -11,6 +11,8 @@ I also made custom fields in Log Analytic Workspace with the intent of mapping g
 <br>
 <b>&#x2022; Virtual Machine</b>
 <br>
+<b>&#x2022; NSG(Network Security Group)</b>
+<br>
 <b>&#x2022; Log Analytic Workspace</b>
 <br>
 <b>&#x2022; Azure Sentinel</b>
@@ -24,31 +26,29 @@ I used <a href="https://ipgeolocation.io/"> ipgeolocation.io</a> to get the API 
 <br>
 
 <h2>Environments Used </h2>
-<b>&#x2022; Windows 10</b>
+<b>&#x2022; Windows 10 on host machine</b>
+<br>
+<b>&#x2022; Windows 10 on Virtual Machine</b>
+<br>
+<b>&#x2022; Microsoft Azure</b>
 
-<h2>Website Preview:</h2>
+<h2>Project Preview:</h2>
 
 <p align="center">
-Introduction: <br/>
-<img src="https://i.imgur.com/jJfha2e.png" height="80%" width="80%" alt="Introduction"/>
+Logged attacks with geolocation: <br/>
+<img src="https://i.imgur.com/zrydl6Z.jpg" height="80%" width="80%" alt="logs"/>
 <br />
 <br />
-Black Holes:  <br/>
-<img src="https://i.imgur.com/yshdrZc.png" height="80%" width="80%" alt="Black Holes"/>
+NSG rule:  <br/>
+<img src="https://i.imgur.com/4G4yIL5.jpg" height="80%" width="80%" alt="Black Holes"/>
+<br>
+<br>
+Azure Sentinel World Map: <br/>
+<img src="https://i.imgur.com/um8SdzM.png" height="80%" width="80%" alt="Spacetime"/>
 <br />
-<img src="https://i.imgur.com/TgRrpbC.png" height="80%" width="80%" alt="Black Holes"/>
+<img src="https://i.imgur.com/1w2qhph.png" height="80%" width="80%" alt="Spacetime"/>
 <br />
 <br>
-Spacetime continuum: <br/>
-<img src="https://i.imgur.com/HHMzhbw.png" height="80%" width="80%" alt="Spacetime"/>
-<br />
-<img src="https://i.imgur.com/9mwUIvB.png" height="80%" width="80%" alt="Spacetime"/>
-<br />
-<br>
-Neutron Stars:  <br/>
-<img src="https://i.imgur.com/cOsPYJJ.png" height="80%" width="80%" alt="Neutron Stars"/>
-<br />
-<img src="https://i.imgur.com/eZGXj21.png" height="80%" width="80%" alt="Neutron Stars"/>
 </p>
 
 <!--
