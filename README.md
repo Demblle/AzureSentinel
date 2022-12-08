@@ -9,7 +9,7 @@ I also made custom fields in Log Analytic Workspace with the intent of mapping g
 <h2>Services Used</h2>
 <b>&#x2022; Resource Groups</b>
 <br>
-<b>&#x2022; Virtual Machines</b>
+<b>&#x2022; Virtual Machine</b>
 <br>
 <b>&#x2022; Log Analytic Workspace</b>
 <br>
@@ -17,16 +17,11 @@ I also made custom fields in Log Analytic Workspace with the intent of mapping g
 
 <h2>Utilies Used</h2>
 &#x2022;
-I got the template from <a href="https://www.w3schools.com/w3css/w3css_templates.asp">here</a>
+I got the idea and the powershell script for the lab from <a href="https://github.com/joshmadakor1/Sentinel-Lab"> here</a>
 <br>
 &#x2022;
-HTML tutorial that I used for <a href="https://www.w3schools.com/html/default.asp">assistance</a>
+I used <a href="https://ipgeolocation.io/"> ipgeolocation.io</a> to get the API key for the logs
 <br>
-&#x2022;
-CSS tutorial that I used for <a href="https://www.w3schools.com/css/default.asp">assistance</a>
-<br>
-&#x2022;
-I got the progress bar, slideshow and loading animation from <a href="https://www.w3schools.com/w3css/default.asp">here</a>
 
 <h2>Environments Used </h2>
 <b>&#x2022; Windows 10</b>
